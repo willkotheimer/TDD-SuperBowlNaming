@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperBowlNamer", "BadSuperBowlNamer\BadSuperBowlNamer.csproj", "{46E0A18A-E6EE-4B3C-819C-5AFEA6298F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperBowlNamer.Tests", "BadSuperBowlNamer.Tests\BadSuperBowlNamer.Tests.csproj", "{A76676A9-D2FF-43FD-8652-F8C89A7D050D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46E0A18A-E6EE-4B3C-819C-5AFEA6298F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E0A18A-E6EE-4B3C-819C-5AFEA6298F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E0A18A-E6EE-4B3C-819C-5AFEA6298F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E0A18A-E6EE-4B3C-819C-5AFEA6298F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76676A9-D2FF-43FD-8652-F8C89A7D050D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76676A9-D2FF-43FD-8652-F8C89A7D050D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76676A9-D2FF-43FD-8652-F8C89A7D050D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76676A9-D2FF-43FD-8652-F8C89A7D050D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E78C691-EA46-4165-9D1D-6E112C44CB02}
+	EndGlobalSection
+EndGlobal
